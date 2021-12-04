@@ -1,0 +1,13 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/miriscv_core.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module miriscv_core
+WARNING: [VRFC 10-3380] identifier 'PC_wait' is used before its declaration [C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/miriscv_core.v:34]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/miriscv_lsu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module miriscv_lsu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sim_1/new/tb_main_decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_miriscv_decode_obf
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sim_1/new/tb_simple_proc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_simple_proc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sim_1/new/tb_ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/tb_miriscv_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_miriscv_top

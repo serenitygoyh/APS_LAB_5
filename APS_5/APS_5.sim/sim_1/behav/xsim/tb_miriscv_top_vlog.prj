@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../APS_5.srcs/sources_1/new/rf.v" \
+"../../../../APS_5.srcs/sources_1/new/main_decoder.v" \
+"../../../../APS_5.srcs/sources_1/new/ALU_RISC_V.v" \
+
+sv xil_defaultlib  \
+"../../../../APS_5.srcs/sources_1/new/miriscv_top.sv" \
+"../../../../APS_5.srcs/sources_1/new/miriscv_ram.sv" \
+
+verilog xil_defaultlib  \
+"../../../../APS_5.srcs/sources_1/new/miriscv_core.v" \
+"../../../../APS_5.srcs/sources_1/new/miriscv_lsu.v" \
+"../../../../APS_5.srcs/sim_1/new/tb_main_decoder.v" \
+"../../../../APS_5.srcs/sim_1/new/tb_simple_proc.v" \
+"../../../../APS_5.srcs/sim_1/new/tb_ALU.v" \
+"../../../../APS_5.srcs/sources_1/new/tb_miriscv_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

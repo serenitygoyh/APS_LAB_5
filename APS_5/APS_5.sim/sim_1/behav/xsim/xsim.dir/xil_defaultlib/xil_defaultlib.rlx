@@ -1,0 +1,21 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/danil/Desktop/5_sem/APS/APS_4/APS_4.srcs/sources_1/new/miriscv_defines.v,1635953806,verilog,,,,,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sim_1/new/tb_ALU.v,1633364696,verilog,,C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/tb_miriscv_top.v,,tb_ALU,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sim_1/new/tb_main_decoder.v,1636972686,verilog,,C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sim_1/new/tb_simple_proc.v,C:/Users/danil/Desktop/5_sem/APS/APS_4/APS_4.srcs/sources_1/new/miriscv_defines.v,tb_miriscv_decode_obf,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sim_1/new/tb_simple_proc.v,1635781664,verilog,,C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sim_1/new/tb_ALU.v,,tb_simple_proc,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/ALU_RISC_V.v,1632152802,verilog,,C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/data_memory.v,,ALU_RISC_V,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/data_memory.v,1638193496,verilog,,C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sim_1/new/tb_main_decoder.v,C:/Users/danil/Desktop/5_sem/APS/APS_4/APS_4.srcs/sources_1/new/miriscv_defines.v,data_memory,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/im.v,1636997451,verilog,,C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/rf.v,,im,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/main_decoder.v,1636997535,verilog,,C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/ALU_RISC_V.v,,main_decoder,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/miriscv_core.v,1638307124,verilog,,C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/miriscv_lsu.v,C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/miriscv_defines.v,miriscv_core,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/miriscv_defines.v,1635953806,verilog,,,,,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/miriscv_lsu.v,1638375719,verilog,,C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sim_1/new/tb_main_decoder.v,,miriscv_lsu,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/miriscv_ram.sv,1638303296,systemVerilog,,,,miriscv_ram,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/miriscv_top.sv,1638303287,systemVerilog,,C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/miriscv_ram.sv,,miriscv_top,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/rf.v,1636979872,verilog,,C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/main_decoder.v,,rf,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/simple_proc.v,1636992284,verilog,,C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/main_decoder.v,C:/Users/danil/Desktop/5_sem/APS/APS_4/APS_4.srcs/sources_1/new/miriscv_defines.v,simple_proc,,,,,,,,
+C:/Users/danil/Desktop/5_sem/APS/APS_5/APS_5.srcs/sources_1/new/tb_miriscv_top.v,1638305165,verilog,,,,tb_miriscv_top,,,,,,,,
